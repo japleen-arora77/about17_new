@@ -1,0 +1,36 @@
+html {
+    box-sizing: border-box;
+  }
+body{
+   font-family: Arial, Helvetica, sans-serif;
+}
+.about-section{
+    padding: 50px;
+  text-align: center;
+  background-color: #386FA4;
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+.msg{
+    background-color:#B3E3F9;
+}
+.testimonial{
+    background-color: #CDE4F3;
+}
+img.testi:hover {
+    box-shadow: 6px 6px 3px 1px rgba(179, 227, 249, 0.7);
+  }
+  div.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  }
+  div.card:hover{
+    box-shadow: 5px 5px  10px #386FA4;
+  }
+  .features{
+    font-size: 20px;
+  }
+.xyz{
+  background-color: #CDE4F3;
+}
